@@ -1,7 +1,6 @@
 ---
-title: "songs"
-author: "Tea Unnebäck"
-date: "2022-10-03"
+title: "Statistikdagssittningen 2022"
+author: "presented by Statistiska Studentrådet"
 output: html_document
 ---
 
