@@ -4,7 +4,7 @@ This is a song book to be used on the Statistical Student Council's dinner celeb
 Feel free to clone this repository if you want to create a song book for your event!
 
 ## How it works
-- `index.html` file contains all songs
+- `index.html` contains all songs
 - `table.js` creates a dynamic table of contents from the songs defined in the html file (`class = "song"`)
 - `style.css` defines the style of the page.
 
