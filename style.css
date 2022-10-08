@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+* {
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  line-height: 150%;
+  color: rgb(33, 71, 105);
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+.song {
+  background-color: rgb(231, 232, 228);
+  padding: 10px;
+  margin: 20px;
+  box-sizing: border-box;
+}
+
+.song h2 {
+  margin: 0;
+}
+
+.song .mel {
+  margin-top: 5px;
+}
+
+.song :last-child {
+  margin-bottom: 0;
+}
+
+.bg {
+  background-image: url(./bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-attachment: fixed;
+  background-color: rgb(33, 71, 105);
+}
