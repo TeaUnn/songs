@@ -16,6 +16,7 @@ function generateTable () {
     const element = document.createElement('a')
     element.innerText = title
     element.href = `#${title}`
+    element.classList.add('smooth-scroll')
     target.appendChild(element)
   }
 }
