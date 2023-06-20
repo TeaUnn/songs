@@ -9,4 +9,4 @@ Feel free to clone this repository if you want to create a song book for your ev
 - `style.css` defines the style of the page.
 
 ## Updates
-Any commits to the main branch will automatically update on the website hosted on github pages [here](teaunn.github.io/songs/).
+Any commits to the main branch will automatically update on the website hosted on github pages [here](https://teaunn.github.io/songs/).
