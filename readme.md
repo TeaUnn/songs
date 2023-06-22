@@ -10,3 +10,10 @@ Feel free to clone this repository if you want to create a song book for your ev
 
 ## Updates
 Any commits to the main branch will automatically update on the website hosted on github pages [here](https://teaunn.github.io/songs/).
+
+### Testing
+To run a local dev-server, you can use the module 'reload'.
+To install 'reload', run:
+```npm install reload -g```
+Navigate to the folder, then run:
+```reload```
