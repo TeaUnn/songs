@@ -38,7 +38,7 @@ h1 {
 }
 
 .bg {
-  background-image: url(./ebba.heic);
+  background-image: url(./ebba.svg);
   background-repeat: repeat;
   background-size: contain;
   background-position: center;
