@@ -11,7 +11,7 @@ h1 {
   font-family: 'Josefin Sans', sans-serif;
   text-transform: uppercase;
   line-height: 150%;
-  color: rgb(47, 182, 32);
+  color: rgb(56, 90, 52);
   overflow-wrap: break-word;
   word-wrap: break-word;
   hyphens: auto;
@@ -44,7 +44,7 @@ h1 {
   background-position: center;
   min-height: 1vh;
   box-sizing: border-box;
-  background-color: rgb(17, 105, 17);
+  background-color: rgb(66, 128, 66);
 }
 
 .table {
